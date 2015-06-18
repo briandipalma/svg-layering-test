@@ -1,0 +1,12 @@
+.stacking-context {
+	z-index: 0;
+	position: relative;
+}
+
+.dropdown {
+	top: 45px;
+	left: 30px;
+	width: 400px;
+	position: absolute;
+	background-color: yellow;
+}
